@@ -10,4 +10,5 @@
     </image>
   </figure>
   <p>bar</p>
+  This is some math: <m>a^2 + b^2 = c^2</m>
 </section>
