@@ -2,4 +2,5 @@
 <introduction xml:id="intro" xmlns:xi="http://www.w3.org/2001/XInclude">
     <p>Some words before the first section of the paper</p>
     <p>Some more of my words.</p>
+    <p>These words do not appear.</p>
 </introduction>
